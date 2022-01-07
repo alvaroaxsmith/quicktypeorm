@@ -1,0 +1,18 @@
+{
+   "name": "quicktypeorm",
+   "version": "0.0.1",
+   "description": "Awesome project developed with TypeORM.",
+   "devDependencies": {
+      "ts-node": "3.3.0",
+      "@types/node": "^8.0.29",
+      "typescript": "3.3.3333"
+   },
+   "dependencies": {
+      "pg": "^8.7.1",
+      "reflect-metadata": "^0.1.10",
+      "typeorm": "0.2.38"
+   },
+   "scripts": {
+      "start": "ts-node src/index.ts"
+   }
+}
