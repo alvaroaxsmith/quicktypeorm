@@ -1,7 +1,7 @@
-# Awesome Project Build with TypeORM
+# Quickstart com typeorm
 
-Steps to run this project:
+Explorando as funcionalidades do typeORM usando docker e postgres
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+- [x] Rodar o comando `npm i` configurar a database no `ormconfig.json` e rodar spm start
+- [] Migrations
+
