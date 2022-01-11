@@ -28,7 +28,7 @@ export default class CreateClass1641672886662 implements MigrationInterface {
             default: 'now()',
           },
           {
-            name: 'update_At',
+            name: 'updated_At',
             type: 'timestamp',
             default: 'now()',
           },
