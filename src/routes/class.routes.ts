@@ -10,7 +10,8 @@ classRouter.post('/', async (request, response) => {
     const repo = getRepository(Class);
     const res = await repo.save(request.body);
     return response.status(201).json(res);
-  } catch (err) {
+    // eslint-disable-next-line prettier/prettier
+  } catch (err:any) {
     console.log('err.message :>> ', err.message);
   }
 });
