@@ -5,7 +5,7 @@
 - [x] Setup inicial
 - [x] Versionando o banco de dados com as migrations
 - [x] Aplicando decorators e entendendo as Models
-- [ ] Utilizando os Repositories
+- [x] Utilizando os Repositories
 - [ ] Sincronizando banco de dados com synchronize e migrations
 - [ ] Deploy
 - [ ] Relacionamentos (OneToOne, ManyToOne e ManyToMany)
