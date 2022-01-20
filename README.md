@@ -6,7 +6,7 @@
 - [x] Versionando o banco de dados com as migrations
 - [x] Aplicando decorators e entendendo as Models
 - [x] Utilizando os Repositories
-- [ ] Sincronizando banco de dados com synchronize e migrations
+- [x] Sincronizando banco de dados com synchronize e migrations
 - [ ] Deploy
 - [ ] Relacionamentos (OneToOne, ManyToOne e ManyToMany)
 - [ ] Criação de registro em cascata em tabelas relacionadas

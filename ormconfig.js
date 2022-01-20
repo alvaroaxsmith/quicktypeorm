@@ -1,10 +1,6 @@
-{
+module.exports = {
   "type": "postgres",
-  "host": "localhost",
-  "port": 5433,
-  "username": "postgres",
-  "password": "docker",
-  "database": "postgres",
+  "url": "postgres://postgres:docker@localhost:5433/postgres",
   "entities": [
     "src/models/**/*.ts"
  ],
