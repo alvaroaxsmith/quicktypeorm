@@ -7,7 +7,7 @@
 - [x] Aplicando decorators e entendendo as Models
 - [x] Utilizando os Repositories
 - [x] Sincronizando banco de dados com synchronize e migrations
-- [ ] Deploy
+- [x] Deploy
 - [ ] Relacionamentos (OneToOne, ManyToOne e ManyToMany)
 - [ ] Criação de registro em cascata em tabelas relacionadas
 - [ ] Inserção/vinculação na relação ManyToMany
