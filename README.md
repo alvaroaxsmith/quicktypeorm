@@ -8,8 +8,8 @@
 - [x] Utilizando os Repositories
 - [x] Sincronizando banco de dados com synchronize e migrations
 - [x] Deploy
+- [x] Relacionamentos (OneToOne, ManyToOne e ManyToMany)
 <!---
-- [ ] Relacionamentos (OneToOne, ManyToOne e ManyToMany)
 - [ ] Criação de registro em cascata em tabelas relacionadas
 - [ ] Inserção/vinculação na relação ManyToMany
 - [ ] Validação com class-validator
