@@ -17,7 +17,7 @@
 - [ ] Geração automática de models a partir do banco de dados
 - [ ] Automatizando a execução de migrações com hooks do NPM
 - [ ] Cache de query no banco da aplicação e no Redis
-- [ ] Transformers e criptografia AES com typeorm encrypt
+- [ ] Transformers e criptografia AES com typeorm encrypt 
 -->
 
 Estudos baseados nas aulas disponibilizadas no [Youtube](https://www.youtube.com/playlist?list=PLDqnSpzNKDvn-3cpMf3yPn7gTnb3ooy4b) do [Prof. Angelo Luz](https://github.com/angelogluz).
